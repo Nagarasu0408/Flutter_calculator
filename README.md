@@ -20,5 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![playstore](https://github.com/Nagarasu0408/Flutter_calculator/assets/88180695/12f17935-4ad0-4602-8566-8e33d3af7337)
-![ss2](https://github.com/Nagarasu0408/Flutter_calculator/assets/88180695/a6e495d3-0a60-4fae-a95c-7d80bfe46b05)
+
+![resize-17055956911093171414ss2](https://github.com/Nagarasu0408/Flutter_calculator/assets/88180695/81cd97b3-5735-4d6e-890f-c7e249f3eade)
+
 
